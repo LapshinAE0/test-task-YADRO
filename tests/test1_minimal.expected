@@ -1,0 +1,6 @@
+go 1
+state 1 0 0 0 0
+collect none resourse
+state 1 _ _ _ _
+go 0
+result 0 0 0 0 0

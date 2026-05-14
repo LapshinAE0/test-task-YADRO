@@ -1,0 +1,47 @@
+go 1
+state 1 0 0 0 0
+collect none resourse
+state 1 _ _ _ _
+go 4
+state 4 0 0 3 0
+collect gems
+state 4 0 0 _ 0
+go 10
+state 10 0 0 0 1
+collect exp
+state 10 0 0 0 _
+go 16
+state 16 0 0 0 0
+collect none resourse
+state 16 _ _ _ _
+go 10
+state 10 0 0 0 _
+go 4
+state 4 0 0 _ 0
+go 1
+state 1 _ _ _ _
+go 5
+state 5 0 0 0 0
+collect none resourse
+state 5 _ _ _ _
+go 11
+state 11 0 2 0 0
+collect gold
+state 11 0 _ 0 0
+go 17
+state 17 0 0 3 0
+collect gems
+state 17 0 0 _ 0
+go 11
+state 11 0 _ 0 0
+go 5
+state 5 _ _ _ _
+go 1
+state 1 _ _ _ _
+go 0
+go 2
+state 2 5 0 0 0
+collect iron
+state 2 _ 0 0 0
+go 0
+result 5 2 6 1 334

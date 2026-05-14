@@ -1,0 +1,13 @@
+go 1
+state 1 0 0 0 0
+collect none resourse
+state 1 _ _ _ _
+go 2
+state 2 10 0 0 0
+All rooms have been visited and more than half of the food has been consumed. Moving on to the return phase!
+collect iron
+state 2 _ 0 0 0
+go 1
+state 1 _ _ _ _
+go 0
+result 10 0 0 0 70
