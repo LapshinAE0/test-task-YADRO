@@ -1,3 +1,0 @@
-/home/alex/me/learn/test_tasks_yidro/Terracraft_Valrising/build/CMakeFiles/game.dir
-/home/alex/me/learn/test_tasks_yidro/Terracraft_Valrising/build/CMakeFiles/edit_cache.dir
-/home/alex/me/learn/test_tasks_yidro/Terracraft_Valrising/build/CMakeFiles/rebuild_cache.dir

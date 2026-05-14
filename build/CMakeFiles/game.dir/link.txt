@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/game.dir/src/main.cpp.o CMakeFiles/game.dir/src/player.cpp.o CMakeFiles/game.dir/src/map.cpp.o CMakeFiles/game.dir/src/logger.cpp.o CMakeFiles/game.dir/src/alice_bot.cpp.o CMakeFiles/game.dir/src/game.cpp.o -o game 
